@@ -11,7 +11,7 @@ from telegram.ext import (
 # ================= CONFIGURATION =================
 # Highlighted Railway Environment Variables
 TOKEN = os.environ.get("8596154779:AAFMFy7PB3NbzNCWRuHi4IxoeugM9LfKP9g")
-OWNER_ID = int(os.environ.get("7634311488")
+OWNER_ID = int(os.environ.get("7634311488"))
 UPI_ID = os.environ.get("abhay-op.315@ptyes")
  API_ID = os.environ.get("35155488")
  API_HASH = os.environ.get("9ee6b40363f94481d48dea8a3a871728")
