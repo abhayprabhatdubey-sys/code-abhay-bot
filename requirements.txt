@@ -1,2 +1,2 @@
-python-telegram-bot==20.8
-apscheduler==3.10.1
+python-telegram-bot==20.7
+Flask==3.0.0
